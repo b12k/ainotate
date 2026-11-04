@@ -44,7 +44,7 @@
     "globby": "16.2.2",
     "isbinaryfile": "6.0.0",
     "p-map": "7.0.6",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@rslib/core": "0.23.2",
